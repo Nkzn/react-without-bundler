@@ -1,5 +1,5 @@
 {
-  "name": "without-bundler",
+  "name": "react-without-bundler",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Matsui Masashi <matsui@kaffeine.jp>",
